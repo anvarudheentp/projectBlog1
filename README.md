@@ -1,6 +1,7 @@
 # Write a Data Science blog post
 Udacity Data Scientist Nanodegree Project.
 
+GitHub link [here](https://github.com/anvarudheentp/projectBlog1/)
 ### Table of Contents
 
 1. [Installation](#installation)
